@@ -1,5 +1,7 @@
 # the_data_science_handbook
 
+2019 Upgrade:  Python 3 Notebooks added for reference
+
 This book contains source code for the example scripts in
 The Data Science Handbook, written by Field Cady and published
 by Wiley and Sons.
